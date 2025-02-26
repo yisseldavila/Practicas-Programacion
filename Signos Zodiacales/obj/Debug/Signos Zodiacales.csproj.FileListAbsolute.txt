@@ -1,0 +1,10 @@
+C:\Users\gonza\OneDrive\Escritorio\PRACTICAS VISIO\Signos Zodiacales\bin\Debug\Signos Zodiacales.exe.config
+C:\Users\gonza\OneDrive\Escritorio\PRACTICAS VISIO\Signos Zodiacales\bin\Debug\Signos Zodiacales.exe
+C:\Users\gonza\OneDrive\Escritorio\PRACTICAS VISIO\Signos Zodiacales\bin\Debug\Signos Zodiacales.pdb
+C:\Users\gonza\OneDrive\Escritorio\PRACTICAS VISIO\Signos Zodiacales\obj\Debug\Signos Zodiacales.csproj.AssemblyReference.cache
+C:\Users\gonza\OneDrive\Escritorio\PRACTICAS VISIO\Signos Zodiacales\obj\Debug\Signos_Zodiacales.Form1.resources
+C:\Users\gonza\OneDrive\Escritorio\PRACTICAS VISIO\Signos Zodiacales\obj\Debug\Signos_Zodiacales.Properties.Resources.resources
+C:\Users\gonza\OneDrive\Escritorio\PRACTICAS VISIO\Signos Zodiacales\obj\Debug\Signos Zodiacales.csproj.GenerateResource.cache
+C:\Users\gonza\OneDrive\Escritorio\PRACTICAS VISIO\Signos Zodiacales\obj\Debug\Signos Zodiacales.csproj.CoreCompileInputs.cache
+C:\Users\gonza\OneDrive\Escritorio\PRACTICAS VISIO\Signos Zodiacales\obj\Debug\Signos Zodiacales.exe
+C:\Users\gonza\OneDrive\Escritorio\PRACTICAS VISIO\Signos Zodiacales\obj\Debug\Signos Zodiacales.pdb
